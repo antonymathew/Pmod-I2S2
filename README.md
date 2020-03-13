@@ -27,4 +27,4 @@ In order to program the project onto an FPGA:
 	
 In order to open a Vivado project after cloning this repo:
 - Open Vivado, in the TCL console at the bottom of the window, CD into the folder of the target board (ex: arty-a7-35).
-- Call "source ./create_project.tcl". This will create the project for the selected board by combining shared sources with board-specific settings and sources.
+- Call "source ./create_project.tcl". This will create the project for the selected board by combining shared sources with board-specific settings and sources.  
